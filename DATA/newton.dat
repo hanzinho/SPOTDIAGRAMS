@@ -1,0 +1,5 @@
+# Newton F8 Telescope
+
+  Type    Aperture Surface Radius E    Medium  Distance
+# vignet  180.     flat    -      -    air     3200.
+  mirror  200.     cone    3200.  1.0  air     1600.
